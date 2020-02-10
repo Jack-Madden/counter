@@ -17,4 +17,9 @@ public class CounterTest {
     void testConstructor() {
         assertEquals(0, myCounter.getCount());
     }
+
+    @Test
+    void testIncrement() {
+        assertEquals(1, myCounter.increment());
+    }
 }
