@@ -13,6 +13,10 @@ public class Counter {
         else this.count = starting;
     }
 
+    public void setCount(int count) {
+        this.count = count;
+    }
+
     public int getCount() {
         return count;
     }

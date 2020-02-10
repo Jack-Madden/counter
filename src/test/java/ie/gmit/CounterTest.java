@@ -1,12 +1,24 @@
 package ie.gmit;
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class CounterTest {
 
     private Counter myCounter;
+
+    @BeforeAll
+    static void startTest() {
+        System.out.println("Starting tests");
+    }
+
+    @AfterAll
+    static void finishTest() {
+        System.out.println("Finished tests");
+    }
 
     @BeforeEach
     void init() {
