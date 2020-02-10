@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44bc0f88-b3ec-4d1c-9ad6-72781a8b73d5" name="Default Changelist" comment="" />
+    <list default="true" id="44bc0f88-b3ec-4d1c-9ad6-72781a8b73d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,13 +31,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="357">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="e#95#96#0" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="391">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
@@ -53,6 +56,8 @@
                 <element signature="e#305#306#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +79,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" />
       </list>
     </option>
   </component>
@@ -103,7 +108,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1045" />
+    <option name="x" value="1167" />
     <option name="y" value="-8" />
     <option name="width" value="1260" />
     <option name="height" value="944" />
@@ -228,7 +233,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581326244810</updated>
-      <workItem from="1581326249361" duration="2335000" />
+      <workItem from="1581326249361" duration="3939000" />
     </task>
     <servers />
   </component>
@@ -242,9 +247,27 @@
     <history-entry file="counterTest - 2020.02.10 at 09h 55m 05s.xml">
       <configuration name="counterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 09h 58m 50s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 10h 09m 33s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 10h 19m 53s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 10h 21m 57s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 10h 22m 19s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="counterTest - 2020.02.10 at 10h 22m 43s.xml">
+      <configuration name="counterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2335000" />
+    <option name="totallyTimeSpent" value="3939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1000" extended-state="6" />
@@ -294,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="391">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
@@ -304,19 +327,21 @@
             <element signature="e#305#306#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="e#95#96#0" expanded="true" />
             <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -8,6 +8,11 @@ public class Counter {
         this.count = 0;
     }
 
+    public Counter(int starting) {
+        if(starting < 1) throw new IllegalArgumentException("Must be greater than 0");
+        else this.count = starting;
+    }
+
     public int getCount() {
         return count;
     }
