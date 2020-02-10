@@ -22,4 +22,9 @@ public class CounterTest {
     void testIncrement() {
         assertEquals(1, myCounter.increment());
     }
+
+    @Test
+    void testDecrement() {
+        assertEquals(-1, myCounter.decrement());
+    }
 }

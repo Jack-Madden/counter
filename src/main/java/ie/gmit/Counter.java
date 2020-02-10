@@ -16,4 +16,9 @@ public class Counter {
         ++count;
         return count;
     }
+
+    public int decrement() {
+        --count;
+        return count;
+    }
 }
